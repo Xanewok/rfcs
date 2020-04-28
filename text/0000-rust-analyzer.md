@@ -176,7 +176,7 @@ The current proposal is informed by experience with existing RLS and query-based
 
 It's interesting that many compilers went through a phase with parallel implementaitons to get a great IDE support
 
-* For C#, the [Roslyn](https://github.com/dotnet/roslyn) project was a from scratch implemenation.
+* For C#, the [Roslyn](https://github.com/dotnet/roslyn) project was a from scratch implementation.
 * [Dart for a long time had different front-ends for command line and interractive compilers](https://youtu.be/WjdrUphF5l4?t=2204)
 * [Swift is transitioning to new syntax tree library by "reimplement separately, then swap" approach](https://medium.com/@kitasuke/deep-dive-into-integrating-libsyntax-into-the-compiler-pipeline-2d478c8600a1)
 
